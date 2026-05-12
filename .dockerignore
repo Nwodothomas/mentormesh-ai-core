@@ -1,0 +1,14 @@
+.venv
+venv
+__pycache__
+.pytest_cache
+.ruff_cache
+.git
+.gitignore
+.env
+.env.local
+.env.production
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+README.md

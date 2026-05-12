@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Data
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Coverage
+coverage.xml
+htmlcov/
+.coverage
